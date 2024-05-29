@@ -1,4 +1,4 @@
-## Simple Banking Application
+## Banking_flow
 
 This is a simple banking application built with Laravel and Livewire. The application allows users to deposit and withdraw amounts from their accounts. It utilizes Laravel's default authentication system to manage user registration and login functionalities.
 
