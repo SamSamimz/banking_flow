@@ -36,6 +36,8 @@ This is a simple banking application built with Laravel and Livewire. The applic
     ```bash
     php artisan migrate
     ```
+8. Run the database seeder command:
+    ```bash
     php artisan db:seed
     ```
 
